@@ -13,7 +13,7 @@ const DATA = {
             "url": "https://apwg.org/events/ecrime2025",
         },
         AUTHOR_NAME: "Billy Tsouvalas",
-        VIDEO_SRC: "video/Parallax_demo_full_anon_tags.mp4",
+        VIDEO_SRC: "video/Parallax_demo_full_anon_tags_sped_up_0.65.mp4",
     },
     ABSTRACT: {
         TEXT: [
