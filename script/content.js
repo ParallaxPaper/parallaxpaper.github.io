@@ -69,7 +69,7 @@ const DATA = {
             "links": [
                 {
                     "name": "PDF",
-                    "url": "../parallax_paper.pdf",
+                    "url": "../Defense_of_the_clones.pdf",
                     "icon": "img/paper_copy.svg"
                 },
             ],
